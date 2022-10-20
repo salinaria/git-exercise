@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 inital value
 second value
+This is third value
